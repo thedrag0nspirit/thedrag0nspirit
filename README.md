@@ -22,7 +22,7 @@
 
 - 📫 Reach me through-**deegru51@gmail.com**
 
-- ⚡ Fun fact -**I am into fitness,Esports and Photography and travelling as well.**
+- ⚡ Fun fact -**I am into fitness,Esports,Photography and travelling as well.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
