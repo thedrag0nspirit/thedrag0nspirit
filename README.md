@@ -12,13 +12,13 @@
 
 - I’m currently working on Major Project -**Stock precision pro**
 
-- I’m currently learning **Python-pandas,pytoch,tensor-flow, rapid and Dsa -basics**
+- I’m currently learning **Python-pandas,pytoch,tensor-flow and Dsa -basics**
 
 - I’m looking to collaborate on **Ml and Ai projects.**
 
-- I’m looking for help with **The concepts of optimized Dsa algos**
+- I’m looking for help with **The concepts of optimized Dsa algorithms**
 
-- 💬 Ask me about -**Python,C++**
+- 💬 Ask me about -**Python**
 
 - 📫 Reach me through-**deegru51@gmail.com**
 
