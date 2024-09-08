@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Deepanshu Thakur</h1>
 <h3 align="center">I am CS student from Tiet'25.</h3>
 
-<img align="right" alt="sayiann" width="400" src="https://images6.fanpop.com/image/photos/39500000/-Vegeta-Turns-To-Super-Saiyan-God-dragon-ball-z-39538816-500-281.gif">
+<img align="center" alt="sayiann" width="400" src="https://images6.fanpop.com/image/photos/39500000/-Vegeta-Turns-To-Super-Saiyan-God-dragon-ball-z-39538816-500-281.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thedrag0nspirit&label=Profile%20views&color=0e75b6&style=flat" alt="thedrag0nspirit" /> </p>
 
