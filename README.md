@@ -1,4 +1,4 @@
-![logo](https://github.com/thedrag0nspirit/thedrag0nspirit/blob/main/banner.png)
+![logo](https://github.com/thedrag0nspirit/thedrag0nspirit/blob/main/banner.png.jpg)
 <h1 align="center">Hi, I'm Deepanshu Thakur</h1>
 <h3 align="center">I am CS student from Tiet'25.</h3>
 
