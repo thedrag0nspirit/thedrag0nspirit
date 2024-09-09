@@ -12,7 +12,7 @@
 
 - I’m currently working on Major Project -**Stock precision pro**
 
-- I’m currently learning **Python-pandas,pytoch,tensor-flow and Dsa -basics**
+- I’m currently learning **Python-pandas,pytorch,tensor-flow and Dsa -basics**
 
 - I’m looking to collaborate on **Ml and Ai projects.**
 
