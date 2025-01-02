@@ -18,7 +18,7 @@
 
 - I’m looking for help with **The concepts of optimized Dsa algorithms**
 
-- 💬 Ask me about -**Python**
+- 💬 Ask me about -**Python,MYSQL,html,powerbi**
 
 - 📫 Reach me through-**deegru51@gmail.com**
 
